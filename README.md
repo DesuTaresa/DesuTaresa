@@ -57,7 +57,7 @@ I am a **Software Engineering student and Full-Stack / Backend Developer** drive
   <!-- BLOOD BANK HUB -->
   <tr>
     <td width="60%">
-      <h3>🩸 BloodBank Hub</h3>
+      <h3>🩸 Bloodbank-hub</h3>
       <p><b>Life-Saving Donor Matching & Inventory Management System</b></p>
       <p>A centralized platform connecting blood banks, emergency medical centers, and volunteer donors in real-time. Features automated blood type compatibility matching, emergency broadcast alerts, and verifiable donation tracking.</p>
       <p>
